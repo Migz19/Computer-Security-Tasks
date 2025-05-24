@@ -101,7 +101,11 @@ Computer-Security-Tasks/
 
 ## 👨‍💻 Contributors
 
-- **Your Name** – [@your-github](https://github.com/migz19)
+- **Ahmed Magdy** – [@Migz19](https://github.com/migz19)
+- **Mohamed Alsayed** -
+- **Zakaria** -
+- **Youssef Nasser** -
+- **Abdelrahman Magdy** -
 
 Feel free to submit pull requests or open issues for improvements.
 
