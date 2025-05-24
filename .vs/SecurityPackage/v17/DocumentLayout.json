@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\SecurityPackage\\SecurityPackage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\mainalgorithms\\railfence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\railfence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|y:\\securitypackage\\securitypackage\\securitylibrary\\mainalgorithms\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\mainalgorithms\\playfair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFBAE4-208F-4F5D-B9F4-CCA2E71F36E4}|SecurityLibrary\\SecurityLibrary.csproj|solutionrelative:securitylibrary\\elgamal\\elgamal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RailFence.cs",
+              "DocumentMoniker": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms\\RailFence.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\RailFence.cs",
+              "ToolTip": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms\\RailFence.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\RailFence.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAQwGMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:02:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayFair.cs",
+              "DocumentMoniker": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "ToolTip": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "RelativeToolTip": "securitylibrary\\MainAlgorithms\\PlayFair.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:56:20.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ELGAMAL.cs",
+              "DocumentMoniker": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeDocumentMoniker": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ToolTip": "Y:\\SecurityPackage\\SecurityPackage\\securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "RelativeToolTip": "securitylibrary\\ElGamal\\ELGAMAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T14:44:10.035Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
